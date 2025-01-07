@@ -1,0 +1,1 @@
+This example demonstrates a common error in Ada programming involving subtype range checks.  The code attempts to increment a variable beyond the defined subtype range, leading to a Constraint_Error exception at runtime. The solution shows how to use exception handling to gracefully manage this situation.
